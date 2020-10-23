@@ -9,3 +9,7 @@
 3. run "python tools/ctw1500_evaluation/test_ctw1500_eval.py"
 
 Example output: "ap: 0.6143, recall: 0.8162, pred: 0.7497, FM: 0.7815"
+
+
+
+Paper address: https://arxiv.org/pdf/1912.08990.pdf
